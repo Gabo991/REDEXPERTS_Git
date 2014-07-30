@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">REDEXPERTS_Gabriel_Kudela</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="JSON_data">JSON data: </string>
+    <string name="parse_JSON_button">Parse JSON</string>
+    <string name="json_location">Location:</string>
+    <string name="json_latitude">Latitude</string>
+    <string name="json_longitude">Longitude</string>
+    <string name="json_text">Text</string>
+    <string name="json_image">Image</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="show_location_button">Show location</string>
+    <string name="download_JSON_data_button">Download JSON</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyBazUj9pEjmkANfnfqm2xL8E4nsYKYGayk</string>
+    <string name="title_activity_marker_demo">MarkerDemoActivity</string>
+
+</resources>
